@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9913" started-at="2019-12-23T06:14:09Z" finished-at="2019-12-23T06:14:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9913" started-at="2019-12-23T06:14:09Z" finished-at="2019-12-23T06:14:19Z">
+      <class name="com.qa.Tests.TC010_PostRequest_Excel">
+        <test-method status="PASS" signature="createEmployees(java.lang.String, java.lang.String)[pri:0, instance:com.qa.Tests.TC010_PostRequest_Excel@46d56d67]" name="createEmployees" duration-ms="4242" started-at="2019-12-23T06:14:12Z" data-provider="empDataProvider" finished-at="2019-12-23T06:14:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akhil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SoftwareEngineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployees -->
+        <test-method status="PASS" signature="createEmployees(java.lang.String, java.lang.String)[pri:0, instance:com.qa.Tests.TC010_PostRequest_Excel@46d56d67]" name="createEmployees" duration-ms="953" started-at="2019-12-23T06:14:16Z" data-provider="empDataProvider" finished-at="2019-12-23T06:14:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mukesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QAEngineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployees -->
+        <test-method status="PASS" signature="createEmployees(java.lang.String, java.lang.String)[pri:0, instance:com.qa.Tests.TC010_PostRequest_Excel@46d56d67]" name="createEmployees" duration-ms="905" started-at="2019-12-23T06:14:17Z" data-provider="empDataProvider" finished-at="2019-12-23T06:14:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashok]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QAEngineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployees -->
+        <test-method status="PASS" signature="createEmployees(java.lang.String, java.lang.String)[pri:0, instance:com.qa.Tests.TC010_PostRequest_Excel@46d56d67]" name="createEmployees" duration-ms="965" started-at="2019-12-23T06:14:18Z" data-provider="empDataProvider" finished-at="2019-12-23T06:14:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prudhvi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QAEngineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployees -->
+      </class> <!-- com.qa.Tests.TC010_PostRequest_Excel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
